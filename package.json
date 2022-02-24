@@ -1,0 +1,22 @@
+{
+    "name": "animetheme",
+    "displayName": "animetheme",
+    "description": "",
+    "version": "0.0.2",
+    "publisher": "animetheme",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "animetheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/animetheme-color-theme.json"
+            }
+        ]
+    }
+}
